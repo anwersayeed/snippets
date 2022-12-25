@@ -1,0 +1,26 @@
+{
+  "name": "snippets",
+  "version": "1.0.0",
+  "description": "1.\tBackend Development with NodeJS\r 2.\tBasics of javascript\r 3.\tAdvanced Javascript\r 4.\tScopes in JS\r 5.\tClosures in JS\r 6.\tAsynchronous Javascript with Callbacks and Promises\r 7.\tHoisting and Coercion\r 8.\tNode JS\r 9.\tExpress JS\r 10.\tHow internet works ?\r 11.\tCI-CD\r 12.\tMicro service based project development\r 13.\tMessage brokers and Queues\r 14.\tIntroduction to programming and problem solving with JS (Recorded)\r 15.\tDesign Documentation and Feature Planning\r 16.\tHLD discussion for the projects\r 17.\tDeployments on Elastic beanstalk or ec2\r 18.\tREST\r 19.\tgRPC\r 20.\tAPI development\r 21.\tCRUD API\r 22.\tHTTP / HTTPS\r 23.\tWeb sockets\r 24.\tDeployment on AWS and Heroku\r 25.\tContainers, Docker and Intro to kubernetes\r 26.\tMongoDB\r 27.\tMySQL\r 28.\tORM and ODM\r 29.\tNetworking\r 30.\tDom manipulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anwersayeed/snippets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anwersayeed/snippets/issues"
+  },
+  "homepage": "https://github.com/anwersayeed/snippets#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

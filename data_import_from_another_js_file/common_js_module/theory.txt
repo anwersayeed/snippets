@@ -1,0 +1,4 @@
+
+// concept of module wrapper function
+- nodejs wraps module by default, hence we have some extra information
+- look into sender.js file

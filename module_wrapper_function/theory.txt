@@ -1,0 +1,2 @@
+
+// check "data_import_from_another_js_file" folder for "module_wrapper_function" theory

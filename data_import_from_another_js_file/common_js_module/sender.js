@@ -14,5 +14,5 @@ module.exports = obj;
 
 // })
 
-// you can also console log these variables
+// you can also console log these variables of module wrapper function
 // console.log( exports, require, module, __filename, __dirname );
